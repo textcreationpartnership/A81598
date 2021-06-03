@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Innocents no saints: or, A paire of spectacles for a dark-sighted Quaker. Whereby, if he be not wilfully blind, he may discern truth from lies. Being, a rejoynder to a paper lately published intituled, Innocency cleared from lies. In vindication of Samuel Smith, minister of the Word at Cressage in the county of Salop, from the calumnies of those pretended innocents. By E.D.</title>
+            <author>Dodd, Edward, 17th cent.</author>
+         </titleStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81598</idno><idno type="EEBO-CITATION">99866721</idno>
+  <idno type="VID">168531</idno>
+  <idno type="EEBO-PROQUEST">2240960258</idno>
+  
+            <idno type="STC">Wing D1790</idno>
+            <idno type="STC">Thomason E960_3</idno>
+            <idno type="STC">ESTC R207683</idno>
+            <idno type="PROQUEST">99866721</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866721e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168531)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 143:E960[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Innocents no saints: or, A paire of spectacles for a dark-sighted Quaker. Whereby, if he be not wilfully blind, he may discern truth from lies. Being, a rejoynder to a paper lately published intituled, Innocency cleared from lies. In vindication of Samuel Smith, minister of the Word at Cressage in the county of Salop, from the calumnies of those pretended innocents. By E.D.</title>
+                  <author>Dodd, Edward, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Francis Tyton, and are to be sold at the Three Daggers in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>E.D. = Edward Dodd cf. Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">J. B. --  (John Bowater), d. 1704. --  Innocency cleared from lyes.</term>
+               <term type="topical_term">Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168531:1"/>
+            <p>Innocents no Saints: OR, A PAIRE OF SPECTACLES For a Dark-Sighted QUAKER. WHEREBY, If he be not wilfully blink, he may discern <hi>Truth</hi> from <hi>Lies.</hi>
+            </p>
+            <p>BEING, A Rejoynder to a Paper lately published intituled, <hi>Innocency Cleared from Lies.</hi>
+            </p>
+            <p>In vindication of <hi>Samuel Smith,</hi> Minister of the Word at <hi>Cressage</hi> in the County of <hi>Salop,</hi> from the Calumnies of those pretended Innocents.</p>
+            <p>By <hi>E. D.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Psal. 62.4.</hi>
+               </bibl>
+               <p>They only consult to cast him down from his excellency, they delight in lyes.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Esay 29.16.</hi>
+               </bibl>
+               <p>Surely, your turning of things upside down shall be esteemed as the Potters Clay.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Tyton,</hi> and are to be sold at the Three <hi>Daggers</hi> in <hi>Fleet-street.</hi> 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:168531:2"/>
+            <pb facs="tcp:168531:2"/>
+            <head>
+               <hi>INNOCENTS NO SAINTS: OR,</hi> A Paire of Spectacles for a dark-sighted QVAKER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here are in the world <hi>Proteus</hi>-like men Metamor<g ref="char:EOLhyphen"/>phosed into divers shapes, Changelings, wan<g ref="char:EOLhyphen"/>dring Planets, that with the Church of <hi>Ephesus</hi> have fallen from their first love and zeal they once made profession of, such is the danger and mise<g ref="char:EOLhyphen"/>ry of these Apostatizing times; such wandring Planets which have left their first Station, are the persons that have lately stept upon the Stage, To act the parts of <hi>guised seeming Innocents</hi> in the County of <hi>Salop;</hi> but how they act their parts, and come off, Judge yee? He that shall but read that book call'd, <hi>Malice stript and whipt,</hi> by this Reverend Minister <hi>Mr. Smith,</hi> whom these pretend to answer in this paper of theirs entituled, <hi>Innocency clea<g ref="char:EOLhyphen"/>red from lyes,</hi> If there were no Rejoynder at all, need look for no further satisfaction of this Minister's <hi>Innocency,</hi> and this people's <hi>Turbulency.</hi> But because the said Minister hath concluded his book thus, <hi>I have done with them unlesse it be in my prayers,</hi> &amp;c. If then he should adde any more they might haply say, he con<g ref="char:EOLhyphen"/>tradicts himselfe: therefore being an ear and eye-witnesse of that was said and done at <hi>Cressage,</hi> when that first instigation was, I have reduced the reply to be reviewed by the ingenuous Reader, and if I can turne the wolfe out of his Guisers-Lamb'skin-coat, t'will be worth your labour to see the chase. It is now eighteen monthes since that peece <hi>(viz.) Malice stript and whipt</hi> was first published; it seemes they have travaild of an answer so long, verifying that poeticall Embleme,
+<q>
+                  <l>Parturiunt montes, nascetur ridiculus mus.</l>
+               </q>
+               <q>
+                  <l>The mountain travaild and did take on, as if t'would rend in sunder.</l>
+                  <pb n="2" facs="tcp:168531:3"/>
+                  <l> At last there dropt a little Mouse, which made Spectators won<g ref="char:EOLhyphen"/>der.</l>
+               </q>
+            </p>
+            <p>Such a Ridiculous birth have they brought forth, as I shall manifest briefly in three observations.</p>
+            <p n="1">1. That to the chief things of concernment deducible from the Minister's answer whereunto they pretend a reply, <hi>To these they have not spoken.</hi>
+            </p>
+            <p n="2">2. Wherein they have replyed, <hi>They cloud it rather then cleare it.</hi>
+            </p>
+            <p n="3">3. Some few Tenents of <hi>theirs are named and shamed.</hi>
+            </p>
+            <p>And if these three particulars shall be made good, I hope all un<g ref="char:EOLhyphen"/>byassed Readers will see that Scroll of theirs unworthy of that Title, <hi>Innocency cleared from lyes,</hi> and truth shall take its place.</p>
+            <div n="1" type="observation">
+               <head>First Observation.</head>
+               <p>THe relation of the fact, proofs, and arguments pen'd by the said Minister have this inference.</p>
+               <p n="1">1. That the present Ministry of this nation doth teach and maintaine the true worship of God and the Doctrine of Jesus Christ according to the revealed will and word of God, as it is contained in the Scriptures.</p>
+               <p n="2">2. That the present Government of the nation is the ordinance of God, and a lawfull magistracy; whereunto the Ministers of the word as well as others may appeal in case of injuries.</p>
+               <p n="3">3. That the Ministers bringing offenders before the Magistrate, to answer for themselves is not <hi>Persecution.</hi> And that the Magi<g ref="char:EOLhyphen"/>strates and Judge of Assise in the whole proceedings against these pretended <hi>Innocents,</hi> did give sentence according to evident proofs, and the known lawes of this nation.</p>
+               <p n="4">4. You are charged with a spirit of envy, bitterness, and mali<g ref="char:EOLhyphen"/>ciousnesse, in calling some of the most eminent Ministers of the land, <hi>Serpent, Lyer, Deceiver, child of the Divell, cursed hypo<g ref="char:EOLhyphen"/>crite,</hi> &amp;c. What, not a word in answer to this charge? I hope you repent of this sinne. <hi>And I trust yee shall know that we are not Reprobates,</hi> 2 <hi>Cor.</hi> 13.6.</p>
+               <p n="5">5. Are you not charg'd againe, that your malice is principally bent against the Ministers, and that all men take notice that they are the object of your malice, as if you had no other work to do but to raile, scandalize, and reproach those servants of the Lord which cry down your delusions; and must this also with divers other particulars charged upon you be waived and not a word
+<pb n="3" facs="tcp:168531:3"/>spoken to them? what will the Reader of that <hi>Malice stript and whipt,</hi> judge, but that you either are ashamed of your doings, or know not what to say for defence of these things?</p>
+               <p>But though you have not replyed at all in any positive sense to any of these five preceding-Maxims; Yet you tell us of some cir<g ref="char:EOLhyphen"/>cumstances as that Ministers are priests, and if thou be not a Priest thou doth the people <hi>wrong to take Tithes or hire from them, and that the said Minister is forth of the doctrine of Christ.</hi>
+               </p>
+               <p>What? do you sit in <hi>Peters chair,</hi> and have you authority to vote men forth of the doctrine of Christ? 1 <hi>Cor.</hi> 14.36. <hi>What came the word of God out from you? or came it to you onely?</hi> Its like you would have us believe, as the false teachers perswaded the <hi>Corinthians,</hi> that <hi>Paul</hi> was out of the doctrine of Christ: so also (say you), our Ministers of the Church of England are out of the doctrine of Christ, <hi>as though the word of God came out from you, or to you onely</hi> Oh high Transcendency</p>
+               <p>This high Prerogative of yours calls to mind your <hi>Arch<g ref="char:EOLhyphen"/>bishop Naylor</hi> that false-Christ, which otherwise. I had omitted; and if you had not passed this censure, I had passed by in silence your <hi>Medaea</hi>-like Mrs. <hi>Pierson</hi> of Worcester, that would go about to raise the dead, caused a dead Corps to be taken out of the grave, and breathed upon it, and commanded it to stand up from the dead; but at last was faine to send for the Sexton to bury it againe. These are the high attempts of <hi>Innocents not Saints</hi> which the Minister hinted in his book; you were well advised, not to speak in their justification. Pray you, if you have com<g ref="char:EOLhyphen"/>mission to vote men out of the doctrine of Christ, expunge <hi>these Innocents of yours, out of your Saints-kalender.</hi>
+               </p>
+               <p>Thus I have introduced five principall matters of the charge whereto you have not replyed, and to supply your blanks I have added a few things <hi>to wipe off your aspersions,</hi> to re-state the repu<g ref="char:EOLhyphen"/>tation of the Ministry, and to assert the authority of the Magi<g ref="char:EOLhyphen"/>stracy, if the Lord will help me to hold up <hi>Moses's</hi> hands.</p>
+               <p>First then I affirme, that the present Ministry of England whereof this Minister is also a member, are not Priests, but Mini<g ref="char:EOLhyphen"/>sters of Christ, Their calling is of Christ; Their doctrine the doctrine of Christ and of his Apostles. Their office the Ministry of the word of God, <hi>Colos.</hi> 1.7. <hi>As yee have also learned of Epaphras who is for you a faithfull Minister of Christ. Luke</hi> 1.2. <hi>Even as they delivered them unto us who were eye-witnesses and Ministers of the word. Rom.</hi> 15.16.<note place="margin">Ministers <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Priests.</note>
+                  <hi>And that I should be the Minister of Jesus Christ to the Gentiles ministring the Gospell of
+<pb n="4" facs="tcp:168531:4"/>God.</hi> See here the Scripture calleth such, <hi>Ministers of the word! Ministers of Christ!</hi> But (say you) they are <hi>Priests</hi> for they re<g ref="char:EOLhyphen"/>ceive Tithes; indeed whether Tithes be of divine right in Gos<g ref="char:EOLhyphen"/>pell times I dispute not, yet if yee be <hi>Abrahams</hi> children, do the works of <hi>Abraham, Gen.</hi> 14. <hi>Abraham gave to Melchisedeck Tithes of all</hi> (that is) <hi>The tenth part of all, Hebr.</hi> 7.2. This was long before the law written,<note place="margin">Tythes.</note> how then did he give it? was it by the law of nature which is called the law of reason? or did <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> give Tithes by revelation from God? If I say he gave it by the light that was in him, I suppose you'l grant that the light in him was the light of God? If then Tithes were payable by the light of God and by the law of nature, before there was any <hi>Le<g ref="char:EOLhyphen"/>viticall</hi> precept; is it not then contrary to the light of God and the law of nature to withhold them? But if not Tithes under the Gospell yet a compensation in lieu of Tithes or a sufficient Gos<g ref="char:EOLhyphen"/>pell maintenance for the Ministers, 1 <hi>Cor.</hi> 9. <hi>Luke</hi> 10. For the labourer is worthy of his hire. Therefore where thou repliest to the Minister saying, <hi>and if thou be not a Priest, thou doth the people wrong to take Tithes or hire from them,</hi> thou judgest the law; and so,<note place="margin">Gal. 6.6. Let him that is taught in the word communicate to him that teacheth in all good things.</note> art found a transgressor of the law, unlesse thou make compen<g ref="char:EOLhyphen"/>sation: And moreover, the just lawes of this nation do corro<g ref="char:EOLhyphen"/>borate the precedent right of Tithes or a compensation in lieu thereof, (as I said before.) Therefore the Minister doth the peo<g ref="char:EOLhyphen"/>ple no wrong to receive Tithes; <hi>Cook</hi> sometime Lord chief justice of England hath determined the case in our law. <hi>None</hi> (saith he) <hi>can prescribe, in non decimando sed sub modo decimandi.</hi>
+               </p>
+               <p>And for Priests they are not properly so calld but by reason of their sacrifice; then are they (as also every faithfull believer) spi<g ref="char:EOLhyphen"/>rituall priests by reason of their spirituall sacrifices.</p>
+               <p>But the <hi>Innocent</hi> is grieved that the Ministers are called <hi>Ma<g ref="char:EOLhyphen"/>sters:</hi> let him see then whether this precedency be not given to the preachers of the word,<note place="margin">Masters of <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ssemblies.</note>
+                  <hi>Eccles.</hi> 12.10.11. <hi>The preacher sought to find out acceptable words, the words of the wise are as goads and as nailes fastned by the masters of Assemblies which are given from one shepheard.</hi> See here, the preachers are called <hi>Masters of assemblies! John</hi> 3.10. <hi>Jesus said unto him, Art thou a master in Israel and knowest not these things?</hi> Here <hi>Nicodemus</hi> a disciple of Christ is allowed the title of <hi>a master in Israel,</hi>
+                  <note place="margin">Master in <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>srael.</note> these are not the words of <hi>Richard Baxter</hi> or <hi>Samuel Smith,</hi> neither do they arrogate so much unto themselves. But these Scriptures let you see, that we can with asmuch or more innocency give the Mini<g ref="char:EOLhyphen"/>sters of the word this or the like reverend appellation, as you can
+<pb n="5" facs="tcp:168531:4"/>deny them of it! And for <hi>Mr. Baxter</hi> and <hi>Mr. Smith,</hi> whom you would degrade, I tell you, <hi>They are burning and shining Lamps,</hi> if I may use the words of our Saviour applyed to his ho<g ref="char:EOLhyphen"/>ly messenger; their works this day extant in the Church of God do witnesse this beyond my testimony, and above your envy: if you believe not me, believe the works. <hi>Paul</hi> sayeth of himselfe, 1 <hi>Cor.</hi> 3.10. <hi>As a wise master builder,</hi>
+                  <note place="margin">Master Buil<g ref="char:EOLhyphen"/>der.</note>
+                  <hi>I have laid the foundati<g ref="char:EOLhyphen"/>on.</hi>
+               </p>
+               <p>For your Questions propounded, where you say, he answered them not to his shame; if you but duely consider the Scriptures quoted in the 27 page of his book, you might well take them for an answer, and see what esteem he had of questions of that nature, 1 <hi>Tim.</hi> 6.3, 4, 5. <hi>But doting about questions and strife of words whereof cometh envy,</hi> &amp;c.</p>
+               <p>To the narrative part, touching the charge laid against you and the proceedings therein, where you say, <hi>He cannot prove the things he accuses these men of,</hi> to this I say the proof is upon re<g ref="char:EOLhyphen"/>cord, it needs no Bill of reviver, your fact was capable of a par<g ref="char:EOLhyphen"/>don, and your pardon (or release as you call it) granted by au<g ref="char:EOLhyphen"/>thority does presuppose an offence.</p>
+               <p>But without complement, touching your hats; you read of an hat, <hi>Dan.</hi> 3.12. <hi>These men were bound in their coates their ho<g ref="char:EOLhyphen"/>sen and their hats;</hi> a former translation hath it, <hi>their coats their hosen and their cloaks,</hi> the Septuagint, Syriack, and Arabick have it, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> The manner of those Tiaraes hoods cloakes or hats (if you will so call them) was, that they did not cover the fore-part of the head,<note place="margin">
+                     <hi>Hierom:</hi> ep. ad Fab.</note> but were bound to the hinder part of the head with phillets, that they could not move them usually to put off as we do, but were affixed also to the upper garments next the head and onely put off with all the rest of the garments. And in<g ref="char:EOLhyphen"/>terpreters give the reason, that because the king's Commandement was urgent, therefore the executioners did not stand to strip the men, but being intent to their kings command, cast them in, <hi>bound in their coats, hosen, and Tiaraes,</hi> cloakes hoods or hats which you will: yet you aske the question, Do not they that re<g ref="char:EOLhyphen"/>quire the hats to be put off, <hi>&amp;c.</hi> in that thing exceed <hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar?</hi> No, for those men had such hats which were tied to the hinder part of their head and to the upper garments, and part of their heads was uncovered; but your hats cover your whole heads and they are loose and easily moved, yea and you do move them upon other ordinary occasions, and are bare-hea<g ref="char:EOLhyphen"/>ded at your pleasures, though to the Magistrate you deny it: And
+<pb n="6" facs="tcp:168531:5"/>now the question (as it relates to you) stand thus? <hi>Whether in<g ref="char:EOLhyphen"/>ferior people of the nation being convened together before a lawfull Magristrate in a court of Justice,</hi>
+                  <note place="margin">Putting off the hart to the Magi<g ref="char:EOLhyphen"/>strate.</note>
+                  <hi>ought to shew their civill out<g ref="char:EOLhyphen"/>ward respects by putting off the hats, or the like bodily gesture?</hi> To this see, <hi>Rom.</hi> 13.7. <hi>Render therefore to all their dues, tribute to whom tribute, custome to whom custome; honor to whom honor:</hi> But you say, <hi>you honour them in the Lord.</hi> If so, do as tis written, <hi>Exod.</hi> 22.28. <hi>Revile not the Gods nor curse the ruler of thy peo<g ref="char:EOLhyphen"/>ple,</hi> and <hi>Let your light also shine before men that they may see your good works.</hi>
+               </p>
+               <p>
+                  <hi>But the putting off the Hart is not commanded in Scripture?</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>
+                  </label>
+               </p>
+               <p>Admit that it be not, <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label> in expresse words, so written; yet every generall precept includes a particular: If the precept be, Render tribute, what tribute shall I render? <hi>The tribute of the na<g ref="char:EOLhyphen"/>tion:</hi> if the precept be Render custome, what custome shall I ren<g ref="char:EOLhyphen"/>der? <hi>The custom of the nation:</hi> If the precept be Rrender honour, what honour shall I render? <hi>The honour of the nation:</hi> unlesse it be contrary to Gods law, <hi>which it is not.</hi> And this hath alwaies been the lawfull custome of the nation, to render honour by un<g ref="char:EOLhyphen"/>covering the head, and the like civill outward gesture and deport<g ref="char:EOLhyphen"/>ment, 1 <hi>Peter</hi> 2.13. <hi>Submit your selves to every ordinance of man for the Lords sake,</hi> 1 <hi>Peter</hi> 3.8. <hi>Be pittifull, be curteous:</hi> Where then is your submission to the ordinance of man? where then is your courtesie which these Scriptures require? <hi>If you salute your brethren onely what great thing do you, do not even the publicans the same?</hi> But you may say, I inferre the putting off of the hat, by consequence; truly by better consequence then you expound the Text, <hi>Dan.</hi> 3.12. because the men were bound in their coats hosen and their hats, therefore <hi>it might be their hats were not ta<g ref="char:EOLhyphen"/>ken off their heads when they were before Nebuchadnezzer, seeing they were bound in their hats.</hi> Here you make inferences of your owne, upon probabilities <hi>and scarce so;</hi> but I have shewed you a better reason, in the beginning of this section, Their hats were sixed to their heads behind, and the kings command was urgent, therefore they did not stand to take off their hats or to strip them.</p>
+               <p>But you tell us, The second commandement saies, <hi>Thou shalt not bow down thy selfe.</hi> Pray you, do those words forbid civill respects among men, or do they forbid all manner of Idolatrous worship? Sirs, you ought to compare one Scripture with an other, so that the whole Scripture may stand inviolate: Will ye so establish the second commandement that you abolish the fifth? Thou ough<g ref="char:EOLhyphen"/>test not to take the honour from thy parents, and to say, <hi>It is a
+<pb n="7" facs="tcp:168531:5"/>gift wherewith I will honour God, as the Scribes and Pharisees</hi> did, whom our Saviour reproves, <hi>Math.</hi> 15.4. <hi>For God com<g ref="char:EOLhyphen"/>manded saying, Honour thy Father and Mother, &amp;c. But ye say, Whosoever shall say to his Father or Mother, It is a gift by whatso<g ref="char:EOLhyphen"/>ever thou mightest be profited by me, and honours not his father or his mother, he shall be free. Thus have ye made the commandement of God of none effect by your traditions:</hi> so then, if thou Parisai<g ref="char:EOLhyphen"/>call <hi>Quaker,</hi> takest <hi>the honour from thy parents, politicall, sparitu<g ref="char:EOLhyphen"/>all, or naturall,</hi> and sayest, Thou wilt honour God with it, thou dost not onely bely the commandement; but, more then that, (as the Lord Christ saies,) <hi>thou makest the commandement of God of none effect.</hi> For, was ever any so absurd as to imagine, that the second Commandment which prohibites bowing to Images or any creature in divine worship, should prohibite civill respects to Magistrates, or Superiors required in the fifth Commandement? And now since I have engaged in this discourse, I desire this at your hands, that you would seriously consider, that as christian verities require <hi>love and respect,</hi> so errors contrary thereto deserve <hi>scorne and derision.</hi> And I feare that in speaking seriously to that you have so fondly and ignorantly asserted, some might think I countenance your assertions; That the fifth Commandement (you say) commands not, neither requires putting off the hat, nor bowing before Magistrates, Ministers, nor parents, those parents political, spiritual and natural; and to this you oppose the words of the second Commandement, <hi>Thou shalt not bow down thy self.</hi> The one speaking of religious worship to Images or to a Crea<g ref="char:EOLhyphen"/>ture; And the other of civill duty and respect to superiors. The man must be of a meek spirit indeed, who reades your defence herein and is not moved to laughter, if this be your understan<g ref="char:EOLhyphen"/>ding of Scriptures, it shewes plainly you are morefit to be cate<g ref="char:EOLhyphen"/>chized <hi>as babes,</hi> then to be reputed <hi>as teachers.</hi> The example of Gods chosen servants, (if there were nothing else said) is enough to condemne your practise in this particular: <hi>Abraham</hi> did not sinne when he bowed himself twice before the children of <hi>Heth, Gen.</hi> 23.7.12. And <hi>Gen.</hi> 44.14. <hi>Judah and his brethren came to Josephs house and they fell before him on the ground.</hi> Here the servants of God bow themselves in token of good estimation and reverence of the persons to whom they speak: But above all, holy Jacob's prediction shall stop your mouth for ever, <hi>Gen.</hi> 49.8. <hi>Judah thy brethren shall praise thee, thy fathers children shall bow downe before thee, vers.</hi> 10. <hi>The scepter shall not depart from Ju<g ref="char:EOLhyphen"/>dah nor a Law giver from between his feet till Shiloh come.</hi>
+                  <note place="margin">Bowing to the Magistrate.</note> Tell
+<pb n="8" facs="tcp:168531:6"/>me now for what cause his fathers children bow before him, was it not because he had the Scepter? was it not because he was the Law-giver, <hi>The Magistrate?</hi> Therefore the Patriarch said, even as God had shewed him, <hi>That they should bow before him!</hi> Sirs, here's a Text to teach you behaviour, if you be of <hi>Jacobs</hi> house-hold.</p>
+               <p>And for salutations though you seldom use it,<note place="margin">Salutations.]</note> neither do I stand upon it whether any or none, yet I tell you the servants of God and the Lord Jesus himself have saluted others, <hi>Ruth</hi> 1.4. <hi>And Boaz came from Bethlehem and said unto the reapers, The Lord be with you, and they answered him, The Lord blesse thee.</hi> Here is salutation given and returned, Our Saviour Christ him<g ref="char:EOLhyphen"/>selfe after his resurrection salutes his disciples, <hi>Luke</hi> 24.36. <hi>And as they spake these things Jesus himselfe stood in the midst of them and said, Peace be unto you.</hi> Again <hi>John</hi> 20.19. <hi>Jesus stood in the midst and said, Peace be unto you:</hi> or, all prosperity; which was <hi>the ordinary manner of salutation among the Jewes.</hi> Here is a President for you beyond all exceptions. As also the Virgin Mary entred into the house of <hi>Zacharias,</hi> and saluted <hi>Elizabeth, Luk.</hi> 1.40.</p>
+               <p>
+                  <note place="margin">Titles of Honor.</note>And for Titles of honour, read how St. John writes <hi>to the elect Lady, A Lady she was though an elect Saint.</hi> So <hi>Paul</hi> be<g ref="char:EOLhyphen"/>speakes the Jewes his brethren, <hi>Ye elders of Israel and Rulers of the people.</hi> So <hi>Luke</hi> 1.3: <hi>It seemed good to me to write to thee in order, most excellent Theophilus.</hi> Here are honorable Titles given to men by the Sholy pirit it selfe, <hi>Go thou therefore and do like<g ref="char:EOLhyphen"/>wise.</hi> These few things premised for a reverend esteem of the Mi<g ref="char:EOLhyphen"/>nisters, for submission to Magistrates, and for deportment to our brethren; I proceed further to make good the second observation.</p>
+            </div>
+            <div n="2" type="observation">
+               <head>Second Observation, That wherein they have re<g ref="char:EOLhyphen"/>plyed, <hi>They cloud it rather then cleare it.</hi>
+               </head>
+               <p>
+                  <hi>HEre thou hast accused them and that concerning the things of God saying,</hi>
+                  <note place="margin">Reply p. 7.</note>
+                  <hi>They have now learned to teach the holy Spirit of God to speak.</hi> And againe, <hi>for the Scriptures thou alledges I own, but they do not prove the Steeple-house a Church, neither the house of God which likely is the end, thou brings them for.</hi>
+               </p>
+               <p>No Do they not prove the places of Christian assemblies to be called a <hi>Church,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Rejoynder. </seg>
+                  </label> nor the house of God? how fitting then had it been for you to have given the true sense of those Scriptures, since we take them so, and cannot without grosse absurdity take them otherwise?</p>
+               <pb n="9" facs="tcp:168531:6"/>
+               <p> When you say <hi>Steeple-houses</hi> and the spirit of God in the scrip<g ref="char:EOLhyphen"/>ture sayes <hi>Churches,</hi> then are ye charged as though you would teach the Spirit of God to speak, who calls the places of publique assemblies for divine worship by the name of <hi>Churches,</hi> as was in the Ministers book clearely proved against you, by, <hi>Eccles.</hi> 9.1. 1 <hi>Cor.</hi> 11.18, 19.22.28.34, 35. <hi>Acts</hi> 19.37.</p>
+               <p>Why do ye not speak in that <hi>Idiom</hi> and propriety of speech, which the holy spirit in Scripture useth; but do rather reject it, and preferre and compare your own language with or before it? do you not then take too much upon you, you Sons of men? when he speaks of his own he is a lyar, and 'tis of your owne new naming <hi>and new speaking,</hi> when you call the publique places for divine worship <hi>Steeple-houses:</hi> know you not that the deno<g ref="char:EOLhyphen"/>mination of a thing is taken from the more worthy part? <hi>Solo<g ref="char:EOLhyphen"/>mons</hi> Temple was not called a <hi>Slaughter-house,</hi> because of the Altar and sacrifices done therein, but the house of God because of his presence therein,<note place="margin">Churches not Steeple-houses</note> 1 <hi>Kings</hi> 8.11. <hi>For the glory of the Lord had filled the house of the Lord:</hi> then <hi>not the Steeple-house but the Church,</hi> because of the assembly of Gods people therein. A dead citty containes living Citizens, Our bodies our houses of clay containe our spirituall souls; so in the like Metonymy of speech, The materiall Church containes the spirituall house, the living stones, 1 <hi>Cor.</hi> 11. <hi>v.</hi> 18.19. <hi>When ye come together in the Church,</hi> That is, when ye the living and spirituall house do come together in the materiall Church. <hi>Acts</hi> 19.37. <hi>These men are not robbers of Churches.</hi> Here the places of assembly are called <hi>Churches;</hi> Therefore they prove what the Minister brings them for. But to what end should we bring scripture against these men! when they alone shall interpret as sitting in <hi>Peters chair,</hi> and if they say, That is not the sense, you may not gaine say it, since these persons alone would be of an unerring spirit. And now, people, strive no more about words.</p>
+               <p>Againe you say, <hi>He came not to them to disprove their do<g ref="char:EOLhyphen"/>ctrine, <label type="milestone">
+                        <seg type="milestoneunit">Reply. </seg>
+                     </label> &amp;c.</hi>
+               </p>
+               <p>I can assure you (for I was then present), <label type="milestone">
+                     <seg type="milestoneunit">Rejoynder. </seg>
+                  </label> that the Minister was then imployed in the Lords work on the Lords day, and had not answered his calling, if upon that provocation of yours he had turned aside, to observe your doctrine, that so he might have dis<g ref="char:EOLhyphen"/>proved it; besides, do you not know, that you and all others of your Sect, after so many disputations had by many Reverend Divines in the land with those Champions of yours, yea with Jesuites themselves which have come masked under your names
+<pb n="10" facs="tcp:168531:7"/>and fought under your colours; and after so many books writ<g ref="char:EOLhyphen"/>ten against your tenents and waies, to which your whole Acade<g ref="char:EOLhyphen"/>my could never give a Resolving or reasonable answer, I say, do you not know that after all this, the Ministry and Church of God in England looks upon you this day as <hi>Heathen</hi> and <hi>Pub<g ref="char:EOLhyphen"/>licans, Math.</hi> 18.17. and do avoid you as men <hi>excommunicate,</hi> and not to be converst withall, for what conference or disputa<g ref="char:EOLhyphen"/>tion is to be had with a people, that either do disparage the scrip<g ref="char:EOLhyphen"/>ture, or will make it speak their sense only? Sirs, commune with your own hearts and see if it be a leight thing, that you are thus cast off of the Church of God, and looked upon, as men <hi>given up of God to be deluded of Satan!</hi> I believe few Ministers in England will henceforth afford you that honour, as to dispute or have any thing to do with such a people; <hi>Let them alone,</hi> sayes Christ, They are blind leaders of the blind.</p>
+               <p>
+                  <hi>If any bring not this doctrine receive him not to house, nor bid him, God speed:</hi> never marvell then, that further conference is not had with you.</p>
+               <p>
+                  <hi>A Lamentation may be taken up for them that depend upon thee, <label type="milestone">
+                        <seg type="milestoneunit">Reply. </seg>
+                     </label> or thy Ministry, or to receive the word from thy mouth who was afraid to maintaine what thou preaches to them.</hi>
+               </p>
+               <p>Lament not so much for them as weep for your selves, <label type="milestone">
+                     <seg type="milestoneunit">Rejoynder. </seg>
+                  </label> yet if any of them do mourn with godly sorrow of heart for sinne, though you despise them; a broken and a contrite heart the Lord will not despise: advance not your selves, as though you were so sinlesse that ye needed not to repent, <hi>Isai.</hi> 65.14. <hi>Behold my servants shall sing for joy of heart, but ye shall cry for sorrow of heart.</hi>
+               </p>
+               <p>There are some souls which depend upon his ministry which can in sincerity say, We blesse God who hath called this servant of his to the work of the ministry amongst us, and for the mani<g ref="char:EOLhyphen"/>fest grace of God in him, and for the work of God we have joyn<g ref="char:EOLhyphen"/>ed our selves to that Congregation, <hi>as some of you also somet. me did, and rejoyced in his light for a season.</hi> The Lord hath owned this servant of his, and the Church of God doth owne him, as one that is faithfull to him that appointed him. And for what he preaches to them it is the doctrine of Christ and of his Apostles, as 'tis recorded in the scriptures; this is it which this minister of Christ doth and hath maintained, and against this truth and doctrine of Christ, the <hi>Gates of hell shall not prevaile,</hi> and this he is not afraid to maintaine.</p>
+               <p>
+                  <hi>Why,</hi>
+                  <note place="margin">Reply. p. <hi>13.</hi>
+                  </note>
+                  <hi>what will the Ministry of the word fall, if hire be
+<pb n="11" facs="tcp:168531:7"/>taken away? is that the foundation on which it stands?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Rejoynder. </seg>
+                  </label> The minister sayes in his answer, <hi>This is the great quarrell of all they have against us, as the Jesuites main engine to overthrow the Ministry:</hi> But here this <hi>Innocent</hi> seemes to do, as they who fained themselves to be just men, and came to Christ to aske questions, <hi>That they might catch him in his words,</hi> So, he askes the question, Is taking of hire the foundation? No, taking hire is not the foundation on which the ministry stands: The mini<g ref="char:EOLhyphen"/>stry and Church of God is built upon <hi>Christ the foundation,</hi> for other foundation can no man lay, than that which is already laid.</p>
+               <p>But read, read, I say, and understand the 83 <hi>Psalm v.</hi> 3.5. and 12. See there what designes what engines the Conspirators and enemies use, to overthrow the Church of God. <hi>They have taken crafty counsell against thy people, they have consulted against thy hidden ones, &amp;c. Who sayed, Let us take to our selves the houses of God in possession.</hi> See now whether the spirit of God speak to you in plaine termes, that you are the men, <hi>or such like men;</hi> Again, <hi>Psal.</hi> 74.8. <hi>They sayed in their hearts let us destroy them together, they have burnt up all the Synagogues of God in the land.</hi> See sirs, The malice of Satan and of his instruments is not only against the persons of men, but against the places and profession of religion, <hi>They say, Let us take the houses of God in possession which were the Store-houses whereinto the Tythes were brought, Mal.</hi> 3.10. That so there may be no residence nor maintenance; <hi>They burn up all the Synagogues of God in the land,</hi> that so there may be no place of publique worship: the Psalmist shewes you, to what purpose they do it, <hi>That the name of Israel may be no more in remembrance.</hi> If then the minister sayed,<note place="margin">Ministers Maintenance.</note> it was an engine to overthrow the ministry, to take away the maintenance, he is not alone in this: the holy spirit of God in these Prophets witnesses this truth against all such conspirators as your selves. I may fit<g ref="char:EOLhyphen"/>ly compare this designe of taking away the ministers right and maintenance to the practise of Satan, who moved God against <hi>Job</hi> to destroy him without cause. What sayes the divel? hast thou not made an hedge about him, and about his house, and about all that he hath. <hi>Put out thy hand now and touch all that he hath. Job</hi> 1.11. The divel would leave all the servants of God as poor as <hi>Job.</hi> So <hi>Julian, Domitian, Dioclesian,</hi> those persecuting Em<g ref="char:EOLhyphen"/>perours in their time, took into some of their hands the Church revennues: of which two last named Emperours, the history re<g ref="char:EOLhyphen"/>ports, that the one <hi>occidit presbyteros,</hi>
+                  <note place="margin">Lord <hi>Cooke</hi> his Report.</note> and the other <hi>occidit presby<g ref="char:EOLhyphen"/>terium.</hi> The one slew the Presbyters, but that would not do, for
+<pb n="12" facs="tcp:168531:8"/>
+                  <hi>the blood of the Martyrs was the seed of the Church,</hi> but the other slew the Presbytery, (that is) took away the maintenance; so that the men, the house, the hedge, and all that they have, might be touched (as t'was in <hi>Jobs</hi> case), <hi>so the divel would have it, so those persecuting Emperours, and so would the Quakers have it!</hi> What then shall become of the schools of the Prophets, Learning, Piety, and defence of the truth? Is not this the ready way to bring in <hi>Barbarism, Heathenism, Heresie,</hi> and to lay the Lords vine<g ref="char:EOLhyphen"/>yard wast? when every proud fantastick spirit shall take upon him to preach, neither sent of God nor approved of his Church; yea when women also are allowed for publique speakers, <hi>as your woman-speaker was in your publique meeting neere</hi> Cond <hi>the sixth day of July last,</hi>
+                  <note place="margin">1 Tim. 2.12. I permit not a woman to teach.</note> 1658. contrary to the manifest Scripture, <hi>Cor.</hi> 14.34. <hi>Let your women keep silence in the Churches for it is not permitted unto them to speak.</hi> May not these men (as the Minister well sayeth) be looked upon as the greatest enemies, the Church of God hath at this day in this nation? be not you found among the number of those, who would take the houses of God, Store<g ref="char:EOLhyphen"/>houses, and maintenance into possession. And let the Synagogues of God stand in the land; for our Saviour Christ himself resorted to those publique places, <hi>Luk.</hi> 4.16. <hi>And as his Custome was he went into the Synagogue on the Sabbath day and stood up for to read.</hi> And <hi>v.</hi> 38. <hi>He arose out of the Synagogue and went into Simons house.</hi>
+                  <note place="margin">Pulique places before private houses.</note> Pray you take notice then, if he did not preferre the publique place of assembly which was the <hi>Synagogue</hi> before Simons house, which was his owne disciples house? <hi>Psal.</hi> 87. <hi>The Lord loveth the Gates of Zion more then all the dwellings of Jacob.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reply. </seg>
+                  </label> But you say, <hi>Who now cries out against the Supreme power?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Rejoynder. </seg>
+                  </label> The supreme power hath indeed very justly granted toleration and liberty to truly-tender consciences: the Minister only minds you, that you abuse not your liberty to Licentiousnesse, and by occasion thereof go too farre (as some do,) against whom the Su<g ref="char:EOLhyphen"/>preme power have declared themselves in the acts of the late Par<g ref="char:EOLhyphen"/>liament; And for his fidelity to the present Government I can witnesse, that at that very time when your meeting was at <hi>Cressage,</hi> this Minister was then teaching (among other things,) the sub<g ref="char:EOLhyphen"/>jection to authority, and shewing the Lawfullnesse and necessity of the Magistracy.</p>
+               <p>
+                  <note place="margin">Scripture misrecited.</note>But in your 19 page, where you quote in the Margin, <hi>Isaiah</hi> 54.13. you write, <hi>And he alone shall teach his people</hi> whereas the words there are; <hi>And all thy children shall be taught of the Lord:</hi>
+                  <pb n="13" facs="tcp:168531:8"/>Pray you, why do ye add or diminish? will you make Scripture of your own? Shew me where it is written, <hi>And he alone shall teach his people:</hi> God himselfe commands parents to teach, and Ministers to teach, <hi>Psal</hi> 78.5. <hi>For he established a Testimony in Jacob and appointed a law in Israel which he commanded our fa<g ref="char:EOLhyphen"/>thers, that they should make them known to their children, that the generation to come might know them, even the children which should be born, who should arise and declare them to their children.</hi> So then here is a succession of teaching to be continued to the ge<g ref="char:EOLhyphen"/>nerations to come, Parents to teach their children; you may tru<g ref="char:EOLhyphen"/>ly say, Gods teaching is supereminent above mans teaching, yet you speak of your own, when you say, <hi>He alone shall teach his people;</hi> for it is written, <hi>He gave some Apostles, and some Pro<g ref="char:EOLhyphen"/>phets, and some Evangelists, and some pastors and teachers for the perfecting of the Saints, for the work of the Ministry, for the edify<g ref="char:EOLhyphen"/>ing of the body of Christ, Eph.</hi> 4.11.12. So then Ministers as well as parents ought also to teach.</p>
+            </div>
+            <div n="3" type="observation">
+               <head>The third Observation.</head>
+               <head type="sub">Some Tenents of theirs are named and shamed.</head>
+               <p>NOt to trouble the Reader with those destructive tenents which divers of their Sect have published to their shame, laid open in a Treatise entituled, <hi>The reviler rebuked</hi> published by a Minister in <hi>Essex,</hi> and in those 24 Reasons contained in that <hi>One sheet against the quakers</hi> by <hi>Mr. Richard Baxter,</hi> to which later though they pretended an answer, yet have they not with all their might removed one objection of that charge a<g ref="char:EOLhyphen"/>gainst them, and their Sect; who so will read the enumeration of Particulars contained in those Treatises, will see the truth of this third observation manifested. That some tenents of their published to the world, <hi>as they are named so are they sha<g ref="char:EOLhyphen"/>med:</hi> But not to speak by other mens books, do you remem<g ref="char:EOLhyphen"/>ber your owne disputations with some of your vicenage? to instance in few, If your tenents be (as <hi>James Naylor</hi> taught) <hi>That they that have the Spirit of God are equall to God:</hi>
+                  <note place="margin">Their Tenets named.</note> (some of your selves shewed me <hi>Naylor</hi>'s book) and did argue for it, I say this is blasphemous and damnable doctrine: for no crea<g ref="char:EOLhyphen"/>ted soul can comprehend the holy Spirit of God in its essence,<note place="margin">Ephes. 4.7. But unto eve<g ref="char:EOLhyphen"/>ry one of us is given grace according to the measure of the guift of Christ.</note> for the holy spirit is infinite and incomprehensible: But the Saints have indeed the Grace of the spirit and the work of the
+<pb n="14" facs="tcp:168531:9"/>spirit. But they that have it so, have it in measure, and though they be glorified in heaven, yet are they not equall to God: <hi>for who among the Gods is like unto our God? Psal</hi> 86.8. Among the Gods, <hi>there is none like unto thee (O Lord) neither are there any works like unto thy works.</hi>
+               </p>
+               <p n="2">2. Againe, if you hold as some of your selves have endeavou<g ref="char:EOLhyphen"/>red to maintaine. <hi>That Jesus Christ is not glorified in his hu<g ref="char:EOLhyphen"/>man nature,</hi> and that he hath no reall body but his Mysticall body, the Church; Is not this contrary to Scripture which wit<g ref="char:EOLhyphen"/>nesseth, that the same body of Christ which rose againe from the dead,<note place="margin">Christ is glo<g ref="char:EOLhyphen"/>rified in his humane na<g ref="char:EOLhyphen"/>ture.</note> the same ascended into heaven, and the same sitteth at the right hand of God? But Christ in his reall body did arise from the dead, <hi>Luk.</hi> 24.39. <hi>Behold my hands and my feet, that it is I my self; handle me and see, for a spirit hath not flesh and bones as ye see me have. Acts</hi> 3.20. <hi>And he shall send Jesus Christ whom the heavens must receive till the time of restitution of all things.</hi> Then heaven is the place of his glorified body, <hi>John</hi> 17.11. <hi>And now I am no more in the world.</hi> If any say, Here he is, or there he is upon earth, believe them not. <hi>Hebr.</hi> 10.12. <hi>But this man</hi> (that is, Christ in the humane nature) <hi>after he had offered one sacrifice, &amp;c. sate down on the right hand of God.</hi>
+               </p>
+               <p n="3">3. Again, if you say, you are without sinne, you deceive your selves, <hi>for who can say his heart is cleane,</hi>
+                  <note place="margin">Prov. 20.9.</note>
+                  <hi>I am pure from my sin?</hi> and in many things we offend all. <hi>Job</hi> 9.20. <hi>If I justifie my selfe, my owne mouth shall condemne me; if I say I am perfect it shall also prove me perverse.</hi> So <hi>Paul, Philip</hi> 3.12. <hi>Not as though I had already attained,</hi>
+                  <note place="margin">None without sinne.</note>
+                  <hi>either were already perfect, but I follow after, if that I may apprehend, &amp;c.</hi> Is your heart more cleane, are you more pure from your sinnes, more justifiable, more perfect, then these holy men were? I tell you, nay; your contempt of the Ministers of Christ, your neglect of the ordi<g ref="char:EOLhyphen"/>nances of Christ, your perverting the doctrine of Christ, these are Characters of sin, whereof you are not guiltlesse; <hi>Gal.</hi> 3.22. <hi>The scripture hath concluded all under sinne.</hi>
+               </p>
+               <p>Say not now, I am pleading for sinne; for I will not build up, that which the Lord through the might of Christ in this day of his power will help me to destroy, yet so as I shall have cause to cry out, Oh wretched man that I am, who shall deliver me? I thank God through Jesus Christ our Lord!</p>
+               <pb n="15" facs="tcp:168531:9"/>
+               <p> I cannot deny to the servants of God a sincerity or per<g ref="char:EOLhyphen"/>fection of parts; but the perfection of degrees is onely attain<g ref="char:EOLhyphen"/>able in heaven, and not to be expected on earth. <hi>Hebr.</hi> 12.23. <hi>and to the spirits of just men made perfect,</hi> when grace on earth is made perfect by glory in heaven.</p>
+               <p n="4">4. Next to shew you, that the Scriptures are the revealed will and word of God, 2 <hi>Tim.</hi> 3.16. <hi>All scripture is gi<g ref="char:EOLhyphen"/>ven by inspiration of God, Jeremy</hi> 37.8. <hi>And Baruch the son of Neriah did according to all that Jeremy, the prophet com<g ref="char:EOLhyphen"/>manded him, reading in the book the words of the Lord in the Lords house.</hi> From this testimony of the holy Prophet you see, <hi>That the words of the Lord are written in the book,</hi>
+                  <note place="margin">Scripture, the word of God.</note> and <hi>The words of the Lord are read in the book.</hi> And the Temple is <hi>the Lords house. Hebr.</hi> 13.7. <hi>Remember them that have the rule over you, who have spoken to you the word of God.</hi> Here the teaching of the Ministers of Christ is called, <hi>The word of God,</hi> 2 <hi>Cor.</hi> 4.7. <hi>not walking in craftinesse, not handling the word of God deceitfully.</hi> Here when <hi>Paul</hi> han<g ref="char:EOLhyphen"/>dles the doctrine of Christ contained in the Scriptures, he calls it, <hi>The word of God:</hi> Yet you say, the Scripture is the letter and 'tis a dead letter; but Christ sayes <hi>John</hi> 6.63. <hi>The words that I speak unto you they are spirit, and they are life.</hi> And as 'tis said of <hi>Abel</hi> in the 11 to the <hi>Heb. That he being dead yet speaketh,</hi> so I may say, that the Scripture which you call a dead letter, yet speaketh; <hi>for what sayeth the Scripture? Abraham believed God, &amp;c.</hi> Hearken man, <hi>The Scripture sayeth, The scripture speaketh,</hi> yea and shall speak to the end of the world for though you say, It may be burnt in the fire, as the king of <hi>Judah</hi> burnt the book in the fire, yet <hi>Jere<g ref="char:EOLhyphen"/>miah</hi> took another role and gave it to <hi>Baruch,</hi> who wrote therein all the words of the book which the king of <hi>Judah</hi> had burnt in the fire, <hi>Jer.</hi> 37.32. And Christ tells you, <hi>Not one jot or tittle of the Law shall perish till all be fulfilled,</hi> Again, <hi>John</hi> 10.35. Christ sayeth there, <hi>If he called them Gods to whom the word of God came and the Scripture can<g ref="char:EOLhyphen"/>not be broken:</hi> Learne you here of Christ himselfe, <hi>The scripture cannot be broken, It shall be fulfilled.</hi> Though you cut it out with a pen-knife or burne it in the fire as <hi>Jeho<g ref="char:EOLhyphen"/>jakim</hi> did; yet one Jot shall not perish: yea and take you
+<pb n="16" facs="tcp:168531:10"/>notice (because the Lord Christ hath brought it to my hand) that the Rulers and Magistrates are called by this honorable Title, <hi>I have sayed, Yee are Gods,</hi> and Christ himselfe doth witnesse to it, that this <hi>particular Scripture touching the Magistrate cannot be broken.</hi>
+               </p>
+               <p>Thus I have instanced some few of their tenents, which being <hi>named</hi> are <hi>shamed</hi> when brought to Scripture-light.</p>
+               <p>But you perhaps have been taught some mentall reserva<g ref="char:EOLhyphen"/>tion, That you hold them not in such manner as I have re<g ref="char:EOLhyphen"/>ported, or that some hold them thus, and others not so; then I say, if ever you meane to gaine credit to your doctrine deale plainly, as <hi>Luke</hi> begins. <hi>Forasmuch as many have taken in hand to set forth in order, a declaration of those things which are most surely believed amongst us.</hi> So do you <hi>set forth in order those things which are most surely believed amongst you.</hi>
+               </p>
+               <p>How often have you been put upon this, and call'd upon to this? in some tract of yours to make known to the world, what you hold, and what you would have; Is all your Religion comprized in Railing and Reviling of Ministers and in crying downe Tythes? or in speaking against Lace, Cuffes, and Ribbons? Are you the men raised in the world for this work alone? and is there nothing else for us to do then this? If so, declare that this is enough to Salvati<g ref="char:EOLhyphen"/>on.</p>
+               <p>Sirs, feed no longer on these husks, but return to your Fathers house where there is bread enough: Remember from whence yee are fallen, repent and do the first works; Returne and live. Lye not down in the sparkes which your selves have lighted.</p>
+               <p>And thus, Reader, as the searchers of the Land of <hi>Canaan</hi> brought their brethren some clusters of grapes, that they might see the fruit of the Land, so I have shewed you some of their Tenents, (for they desire to be advertized of them that they may forsake them, if they be damnable), that
+<pb n="17" facs="tcp:168531:10"/>others may see and judge whether, these be not wild grapes. <hi>And he looked that it should bring forth grapes, and it brought forth wild grapes:</hi> My prayer to God for them is, that they may be replanted into the true Vine! <hi>And they al<g ref="char:EOLhyphen"/>so if they continue not in unbeliefe shall be grafted in, for God is able to graffe them in againe, Rom.</hi> 10.23.</p>
+               <p>This I have written asmuch for your Conversion as Re<g ref="char:EOLhyphen"/>futation, consider that all things draw to an end; and of wri<g ref="char:EOLhyphen"/>ting books there must also be</p>
+               <trailer>And End.</trailer>
+               <closer>
+                  <signed>E.D.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
